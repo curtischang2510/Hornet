@@ -7,7 +7,8 @@ Goal: The basic premise of the programme is to take in an image and draw boundin
 As of 2/11/23 HSV values need to be changed whenever user wants to detect a certain colour. The HSV values in the pushed code are used to detect the orange ball in the photo "soccerballs.png" 
 
 ### ULAP.py
-Most of the code was taken from https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/blob/master/README.md
+Most of the code was taken from https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/blob/master/README.md 
+
 Just added some code to make using the processing techniques more straightforward 
 
 To use this for image pre-processing just use the following steps: 
